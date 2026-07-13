@@ -1,21 +1,21 @@
-# sleepoutside
+# Acampar
 
-## Description
+## Descrição
 
-Use this as a starting point to complete the WDD 330 team activity: the SleepOutside web application. It scaffolds out a simple web app with Vite support to bundle up our assets.
+Use este projeto como ponto de partida para concluir a atividade em equipe do curso WDD 330: aplicação web **Acampar**. Ele fornece a estrutura inicial de uma aplicação web com suporte ao Vite para empacotar os recursos do projeto.
 
-## Prerequisites
+## Pré-requisitos
 
-- You must have Node installed to run the following commands.
-[WDD 330 Setup Environment](https://byui-cse.github.io/wdd330-ww-course/intro/) 
+- É necessário ter o Node.js instalado para executar os comandos abaixo.
+- [Configuração do Ambiente da WDD 330](https://byui-cse.github.io/wdd330-ww-course-pt/intro/setup-course-tools.html)
 
-## Setup
+## Configuração
 
 - `npm install`
-- `npm run start` starts up a local server and updates on any JS or CSS/SCSS changes.
+- `npm run start` inicia um servidor local e atualiza automaticamente sempre que houver alterações nos arquivos JavaScript ou CSS/SCSS.
 
-## Other commands
+## Outros comandos
 
-- `npm run build` to build final files when you are ready to turn in.
-- `npm run lint` to run ESLint against your code to find errors.
-- `npm run format` to run Prettier to automatically format your code.
+- `npm run build` gera os arquivos finais quando você estiver pronto para entregar a atividade.
+- `npm run lint` executa o ESLint para verificar seu código em busca de erros.
+- `npm run format` executa o Prettier para formatar automaticamente o seu código.
