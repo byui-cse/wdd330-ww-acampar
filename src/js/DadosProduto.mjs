@@ -1,5 +1,3 @@
-// ProductData.mjs
-
 function converterParaJson(resposta) {
   if (resposta.ok) {
     return resposta.json();
