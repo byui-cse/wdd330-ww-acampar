@@ -1,10 +1,10 @@
-import ProductData from "./ProductData.mjs";
-import ProductList from "./ProductList.mjs";
+import DadosProduto from "./DadosProduto.mjs";
+import ListaProdutos from "./ListaProdutos.mjs";
 
-const dataSource = new ProductData("tents");
+const fonteDados = new DadosProduto("barracas");
 
-const element = document.querySelector(".product-list");
+const elemento = document.querySelector(".lista-produtos");
 
-const productList = new ProductList("Tents", dataSource, element);
+const listaProdutos = new ListaProdutos("Barracas", fonteDados, elemento);
 
-productList.init();
+listaProdutos.inicializar();
