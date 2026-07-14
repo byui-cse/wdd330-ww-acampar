@@ -5,7 +5,7 @@
   "UrlProximaPagina": "/api/1.0/products/s~sleeping-bags/?page=2",
   "UrlUltimaPagina": "/api/1.0/products/s~sleeping-bags/?page=3",
   "UrlRefinamentos": "/api/1.0/refinements/search~sleeping-bags/",
-  "Titulo": "Search for \"sleeping bags\" ",
+  "Titulo": "Pesquisa por \"sacos de dormir\" ",
   "Resultado": [
     {
       "Id": "927VJ",
@@ -19,8 +19,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "20°F Pinole Saco de Dormir - Sarcófago (For Homens and Mulheres)",
-      "Nome": "Mountain Hardwear 20°F Pinole Saco de Dormir - Sarcófago (For Homens and Mulheres)",
+      "NomeSemMarca": "Saco de Dormir Pinole 20°F - Sarcófago (Para Homens e Mulheres)",
+      "Nome": "Saco de Dormir Mountain Hardwear Pinole 20°F - Sarcófago (Para Homens e Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/mountain-hardwear-20-f-pinole-sleeping-bag-mummy-for-men-and-women-in-altitude-blue~p~927vj_01~80.jpg",
@@ -42,18 +42,18 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Altitude Azul",
+          "NomeCor": "Azul Altitude",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/927vj-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/mountain-hardwear-20-f-pinole-sleeping-bag-mummy-for-men-and-women-in-altitude-blue~p~927vj_01~160.jpg"
         },
         {
           "CodigoCor": "02",
-          "NomeCor": "Dark Army",
+          "NomeCor": "Exército Escuro",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/927vj-02.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/mountain-hardwear-20-f-pinole-sleeping-bag-mummy-for-men-and-women-in-dark-army~p~927vj_02~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong>Excess</strong>. From spring to summer to fall, Mountain Hardwear&#39;s 20&#176; F Pinole Saco de Dormir delivers away-from-home comfort with its Thermal.Q synthetic insulation, tailored hood for sealing in heat and comfort footbox for just-right wiggle room.",
+      "DescricaoHtmlSimples": "<strong>Excesso de Estoque</strong>. Da primavera ao verão e outono, o Saco de Dormir Pinole 20&#176; F da Mountain Hardwear oferece conforto longe de casa com seu isolamento sintético Thermal.Q, capuz ajustado para reter o calor e caixa para os pés confortável para um espaço ideal de movimento.",
       "PrecoVarejoSugerido": 130,
       "Marca": {
         "Id": "13530",
@@ -77,8 +77,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "30°F Mavericks Double Wide Saco de Dormir - Square",
-      "Nome": "Marmot 30°F Mavericks Double Wide Saco de Dormir - Square",
+      "NomeSemMarca": "Saco de Dormir Mavericks Double Wide 30°F - Quadrado",
+      "Nome": "Saco de Dormir Marmot Mavericks Double Wide 30°F - Quadrado",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/marmot-30-f-mavericks-double-wide-sleeping-bag-square-in-golden-copper-dark-olive~p~21kmf_01~80.jpg",
@@ -100,12 +100,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Golden Copper/Dark Olive",
+          "NomeCor": "Cobre Dourado/Oliva Escuro",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/21kmf-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/marmot-30-f-mavericks-double-wide-sleeping-bag-square-in-golden-copper-dark-olive~p~21kmf_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Designed to share with your special someone, this Marmot Mavericks double wide Saco de Dormir also zips apart to become two individual bags. Fortified with SpiraFil synthetic insulation for optimal warmth and comfort on chilly nights.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Projetado para compartilhar com alguém especial, este Saco de Dormir duplo Marmot Mavericks também pode ser separado por zíper para se tornar dois sacos individuais. Fortificado com isolamento sintético SpiraFil para calor e conforto ideais em noites frias.",
       "PrecoVarejoSugerido": 212,
       "Marca": {
         "Id": "1308",
@@ -129,8 +129,8 @@
         "ContagemAvaliacoes": 1,
         "MediaAvaliacao": 1
       },
-      "NomeSemMarca": "SpeedValve NeoAir® Camper SV Isolante Térmico - Inflatable, Extra-Large",
-      "Nome": "Therm-a-Rest SpeedValve NeoAir® Camper SV Isolante Térmico - Inflatable, Extra-Large",
+      "NomeSemMarca": "Isolante Térmico NeoAir® Camper SV SpeedValve - Inflável, Extra-Grande",
+      "Nome": "Isolante Térmico Therm-a-Rest NeoAir® Camper SV SpeedValve - Inflável, Extra-Grande",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/therm-a-rest-speedvalve-neoair-camper-sv-sleeping-pad-inflatable-extra-large-in-blue~p~640gu_01~80.jpg",
@@ -143,12 +143,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Blue",
+          "NomeCor": "Azul",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/640gu-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/therm-a-rest-speedvalve-neoair-camper-sv-sleeping-pad-inflatable-extra-large-in-blue~p~640gu_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Exceptionally compact, lightweight and with ultra-fast inflation and deflation, the Therm-A-Rest SpeedValve Camper SV Isolante Térmico is a deluxe base camp air mattress with NeoAir&#174; construction for added warmth and stability.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Excepcionalmente compacto, leve e com inflação e deflação ultrarrápidas, o Isolante Térmico Therm-A-Rest SpeedValve Camper SV é um colchão de ar de acampamento base de luxo com construção NeoAir&#174; para maior calor e estabilidade.",
       "PrecoVarejoSugerido": 129.99,
       "Marca": {
         "Id": "3177",
@@ -172,8 +172,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "50°F Rambler Saco de Dormir - Semi-Rectangular (For Homens and Mulheres)",
-      "Nome": "Kelty 50°F Rambler Saco de Dormir - Semi-Rectangular (For Homens and Mulheres)",
+      "NomeSemMarca": "Saco de Dormir Rambler 50°F - Semirretangular (Para Homens e Mulheres)",
+      "Nome": "Saco de Dormir Kelty Rambler 50°F - Semirretangular (Para Homens e Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-green-apple~p~861py_03~80.jpg",
@@ -206,36 +206,36 @@
       "Cores": [
         {
           "CodigoCor": "03",
-          "NomeCor": "Verde Apple",
+          "NomeCor": "Verde Maçã",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/861py-03.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-green-apple~p~861py_03~160.jpg"
         },
         {
           "CodigoCor": "02",
-          "NomeCor": "Fire Laranja",
+          "NomeCor": "Laranja Fogo",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/861py-02.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-fire-orange~p~861py_02~160.jpg"
         },
         {
           "CodigoCor": "04",
-          "NomeCor": "Vermelho Sand",
+          "NomeCor": "Areia Vermelha",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/861py-04.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-red-sand~p~861py_04~160.jpg"
         },
         {
           "CodigoCor": "01",
-          "NomeCor": "Paradise Azul",
+          "NomeCor": "Azul Paraíso",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/861py-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-paradise-blue~p~861py_01~160.jpg"
         },
         {
           "CodigoCor": "05",
-          "NomeCor": "Sycamore/Fire Laranja",
+          "NomeCor": "Sicômoro/Laranja Fogo",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/861py-05.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/kelty-50-f-rambler-sleeping-bag-semi-rectangular-for-men-and-women-in-sycamore-fire-orange~p~861py_05~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Kelty&#39;s 50&#176;F Rambler Saco de Dormir features a semi-rectangular design that keeps you comfortably warm (or cool) in mild temperatures.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. O Saco de Dormir Rambler 50&#176;F da Kelty apresenta um design semirretangular que mantém você confortavelmente aquecido (ou fresco) em temperaturas amenas.",
       "PrecoVarejoSugerido": 50,
       "Marca": {
         "Id": "1105",
@@ -259,8 +259,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "Static V2 Isolante Térmico - Inflatable",
-      "Nome": "Klymit Static V2 Isolante Térmico - Inflatable",
+      "NomeSemMarca": "Isolante Térmico Static V2 - Inflável",
+      "Nome": "Isolante Térmico Klymit Static V2 - Inflável",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/klymit-static-v2-sleeping-pad-inflatable-in-green~p~16pwy_01~80.jpg",
@@ -278,12 +278,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Green",
+          "NomeCor": "Verde",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/16pwy-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/klymit-static-v2-sleeping-pad-inflatable-in-green~p~16pwy_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Rest comfortably on the trail with Klymit&#39;s Static V2 Isolante Térmico, featuring a lightweight, compact design with ergonomic V-chambers that support your pressure points and maximize warmth.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Descanse confortavelmente na trilha com o Isolante Térmico Static V2 da Klymit, que apresenta um design leve e compacto com câmaras ergonômicas em V que suportam seus pontos de pressão e maximizam o calor.",
       "PrecoVarejoSugerido": 55,
       "Marca": {
         "Id": "4173",
@@ -307,8 +307,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "20°F Kenosha Down Saco de Dormir - 650 Fill Power, Sarcófago (For Homens and Mulheres)",
-      "Nome": "Marmot 20°F Kenosha Down Saco de Dormir - 650 Fill Power, Sarcófago (For Homens and Mulheres)",
+      "NomeSemMarca": "Saco de Dormir de Plumas Kenosha 20°F - Capacidade de Preenchimento 650, Sarcófago (Para Homens e Mulheres)",
+      "Nome": "Saco de Dormir de Plumas Marmot Kenosha 20°F - Capacidade de Preenchimento 650, Sarcófago (Para Homens e Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/marmot-20-f-kenosha-down-sleeping-bag-650-fill-power-mummy-for-men-and-women-in-green-lichen-green-gulch~p~14gvh_01~80.jpg",
@@ -330,12 +330,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Verde Lichen/Verde Gulch",
+          "NomeCor": "Verde Liquen/Verde Gulch",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/14gvh-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/marmot-20-f-kenosha-down-sleeping-bag-650-fill-power-mummy-for-men-and-women-in-green-lichen-green-gulch~p~14gvh_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Sleep under the stars with Marmot&#39;s Kenosha Saco de Dormir, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Durma sob as estrelas com o Saco de Dormir Kenosha da Marmot, fortificado com isolamento de plumas com <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">capacidade de preenchimento (fill power)</a> de 650 para máximo conforto e calor.",
       "PrecoVarejoSugerido": 260,
       "Marca": {
         "Id": "1308",
@@ -359,8 +359,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "30°F Trestles Elite Saco de Dormir (For Mulheres)",
-      "Nome": "Marmot 30°F Trestles Elite Saco de Dormir (For Mulheres)",
+      "NomeSemMarca": "Saco de Dormir Trestles Elite 30°F (Para Mulheres)",
+      "Nome": "Saco de Dormir Marmot Trestles Elite 30°F (Para Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/marmot-30-f-trestles-elite-sleeping-bag-for-women-in-turf-green-garden-green~p~621cp_01~80.jpg",
@@ -377,12 +377,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Turf Verde/Garden Verde",
+          "NomeCor": "Verde Turfa/Verde Jardim",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/621cp-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/marmot-30-f-trestles-elite-sleeping-bag-for-women-in-turf-green-garden-green~p~621cp_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Marmot&#39;s 30&#176;F Trestles Elite Saco de Dormir promises to keep you toasty-warm in near-freezing weather with HL-ElixR&#174; synthetic insulation that&#39;s a smart combination of three fibers to efficiently trap heat, maintain <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of “dead space” or air throughout an insulating material inside a Saco de Dormir or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the “puffiness” of down or synthetic insulation.\">loft</a> and feel soft and comfortable.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. O Saco de Dormir Trestles Elite 30&#176;F da Marmot promete mantê-lo aquecido em climas próximos a zero grau com o isolamento sintético HL-ElixR&#174;, que é uma combinação inteligente de três fibras para reter o calor de forma eficiente, manter a <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of “dead space” or air throughout an insulating material inside a Saco de Dormir or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the “puffiness” of down or synthetic insulation.\">espessura (loft)</a> e proporcionar uma sensação macia e confortável.",
       "PrecoVarejoSugerido": 104.99,
       "Marca": {
         "Id": "1308",
@@ -406,8 +406,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "50°F Gormsson Saco de Dormir - Sarcófago, Long",
-      "Nome": "Nordisk 50°F Gormsson Saco de Dormir - Sarcófago, Long",
+      "NomeSemMarca": "Saco de Dormir Gormsson 50°F - Sarcófago, Longo",
+      "Nome": "Saco de Dormir Nordisk Gormsson 50°F - Sarcófago, Longo",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/nordisk-50-f-gormsson-sleeping-bag-mummy-long-in-limoges-blue~p~10hgh_01~80.jpg",
@@ -429,12 +429,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Limoges Azul",
+          "NomeCor": "Azul Limoges",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/10hgh-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/nordisk-50-f-gormsson-sleeping-bag-mummy-long-in-limoges-blue~p~10hgh_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong>Excess</strong>. Recharge under the stars with Nordisk&#39;s 50&#176;F Gormsson Saco de Dormir, made from smooth, water-resistant <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> with high-loft synthetic insulation and a roomy footbox for maximum comfort.",
+      "DescricaoHtmlSimples": "<strong>Excesso de Estoque</strong>. Recarregue as energias sob as estrelas com o Saco de Dormir Gormsson 50&#176;F da Nordisk, feito de <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> suave e resistente à água, com isolamento sintético de alta espessura e uma caixa para os pés espaçosa para o máximo conforto.",
       "PrecoVarejoSugerido": 190,
       "Marca": {
         "Id": "33133",
@@ -458,8 +458,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "5°F Rampart Down Saco de Dormir - 650 Fill, Sarcófago (For Homens and Mulheres)",
-      "Nome": "Marmot 5°F Rampart Down Saco de Dormir - 650 Fill, Sarcófago (For Homens and Mulheres)",
+      "NomeSemMarca": "Saco de Dormir de Plumas Rampart 5°F - Preenchimento 650, Sarcófago (Para Homens e Mulheres)",
+      "Nome": "Saco de Dormir de Plumas Marmot Rampart 5°F - Preenchimento 650, Sarcófago (Para Homens e Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/marmot-5-f-rampart-down-sleeping-bag-650-fill-mummy-for-men-and-women-in-rusted-orange-mahogany~p~14gvf_01~80.jpg",
@@ -481,12 +481,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Rusted Laranja/Mahogany",
+          "NomeCor": "Laranja Ferrugem/Mogno",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/14gvf-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/marmot-5-f-rampart-down-sleeping-bag-650-fill-mummy-for-men-and-women-in-rusted-orange-mahogany~p~14gvf_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Sleep under the stars with Marmot&#39;s Rampart Saco de Dormir, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Durma sob as estrelas com o Saco de Dormir Rampart da Marmot, fortificado com isolamento de plumas de <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">capacidade de preenchimento (fill power)</a> 650 para máximo conforto e calor.",
       "PrecoVarejoSugerido": 315,
       "Marca": {
         "Id": "1308",
@@ -510,8 +510,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "45° F Traveler Saco de Dormir - Sarcófago (For Homens and Mulheres)",
-      "Nome": "Marmot 45° F Traveler Saco de Dormir - Sarcófago (For Homens and Mulheres)",
+      "NomeSemMarca": "Saco de Dormir Traveler 45° F - Sarcófago (Para Homens e Mulheres)",
+      "Nome": "Saco de Dormir Marmot Traveler 45° F - Sarcófago (Para Homens e Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/marmot-45-f-traveler-sleeping-bag-mummy-for-men-and-women-in-redstone~p~14hdk_01~80.jpg",
@@ -533,12 +533,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Redstone",
+          "NomeCor": "Pedra Vermelha",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/14hdk-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/marmot-45-f-traveler-sleeping-bag-mummy-for-men-and-women-in-redstone~p~14hdk_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. The super-packable design of Marmot&#39;s 45&#176;F Traveler Saco de Dormir makes it perfect for world travel and bicycle touring. Highly compressible, yet lofty Spirafil&#174; insulation retains warmth when wet.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. O design super compactável do Saco de Dormir Traveler 45&#176;F da Marmot o torna perfeito para viagens pelo mundo e passeios de bicicleta. O isolamento Spirafil&#174;, altamente compressível e volumoso, retém o calor mesmo quando molhado.",
       "PrecoVarejoSugerido": 110,
       "Marca": {
         "Id": "1308",
@@ -562,8 +562,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "14°F Oscar Saco de Dormir - Sarcófago, Long",
-      "Nome": "Nordisk 14°F Oscar Saco de Dormir - Sarcófago, Long",
+      "NomeSemMarca": "Saco de Dormir Oscar 14°F - Sarcófago, Longo",
+      "Nome": "Saco de Dormir Nordisk Oscar 14°F - Sarcófago, Longo",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/nordisk-14-f-oscar-sleeping-bag-mummy-long-in-mustard~p~10hkn_01~80.jpg",
@@ -585,12 +585,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Mustard",
+          "NomeCor": "Mostarda",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/10hkn-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/nordisk-14-f-oscar-sleeping-bag-mummy-long-in-mustard~p~10hkn_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong>Excess</strong>. Stay warm while camping in extreme conditions with Nordisk&#39;s 14&#176;F Oscar Saco de Dormir, featuring a body-hugging <a class=\"glossaryTermLink\" href=\"/Sarcófago~g~1946\" title=\"Sarcófago: - Sarcófago refers to the shape of sleeping bags designed to provide maximum warmth. Sarcófago-shaped bags taper from the head to the foot, reducing their volume and surface area, improving overall heat-retention properties. Sarcófago bags are typically more lightweight and take up less space than rectangular bags, which makes them ideal for backpacking.\">Sarcófago</a> shape with Northguard S-Core insulation and an innovative tubic construction that traps air in for even heat distribution while pushing moisture out for maximum warmth and comfort.",
+      "DescricaoHtmlSimples": "<strong>Excesso de Estoque</strong>. Mantenha-se aquecido acampando em condições extremas com o Saco de Dormir Oscar 14&#176;F da Nordisk, apresentando um formato <a class=\"glossaryTermLink\" href=\"/Sarcófago~g~1946\" title=\"Sarcófago: - Sarcófago refers to the shape of sleeping bags designed to provide maximum warmth. Sarcófago-shaped bags taper from the head to the foot, reducing their volume and surface area, improving overall heat-retention properties. Sarcófago bags are typically more lightweight and take up less space than rectangular bags, which makes them ideal for backpacking.\">Sarcófago</a> que se ajusta ao corpo, com isolamento Northguard S-Core e uma inovadora construção tubular que retém o ar para uma distribuição uniforme do calor, enquanto expele a umidade para máximo calor e conforto.",
       "PrecoVarejoSugerido": 400,
       "Marca": {
         "Id": "33133",
@@ -614,8 +614,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "20°F Sawatch Down Saco de Dormir - 650 Fill Power, Sarcófago (For Mulheres)",
-      "Nome": "Marmot 20°F Sawatch Down Saco de Dormir - 650 Fill Power, Sarcófago (For Mulheres)",
+      "NomeSemMarca": "Saco de Dormir de Plumas Sawatch 20°F - Capacidade de Preenchimento 650, Sarcófago (Para Mulheres)",
+      "Nome": "Saco de Dormir de Plumas Marmot Sawatch 20°F - Capacidade de Preenchimento 650, Sarcófago (Para Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/marmot-20-f-sawatch-down-sleeping-bag-650-fill-power-mummy-for-women-in-ocean-sea-scape~p~14gvg_01~80.jpg",
@@ -637,12 +637,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Ocean/Sea Scape",
+          "NomeCor": "Oceano/Paisagem Marinha",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/14gvg-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/marmot-20-f-sawatch-down-sleeping-bag-650-fill-power-mummy-for-women-in-ocean-sea-scape~p~14gvg_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Sleep under the stars with Marmot&#39;s Sawatch Saco de Dormir, fortified with 650 <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">fill power</a> down insulation for ultimate comfort and warmth.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. Durma sob as estrelas com o Saco de Dormir Sawatch da Marmot, fortificado com isolamento de plumas de <a class=\"glossaryTermLink\" href=\"/fill-power~g~1840\" title=\"Fill Power: - The number of cubic inches one ounce of down insulation occupies; also, a measurement of the down’s loft (fluffiness). The higher the fill power, the warmer it is. Choose the type of fill and use the fill power as a guideline to how warm or lofty you like your bedding.  Lightweight warmth has a 500-550 fill power. 550-600 fill power offers medium warmth and 600+ fill power is very warm.\">capacidade de preenchimento (fill power)</a> 650 para máximo conforto e calor.",
       "PrecoVarejoSugerido": 260,
       "Marca": {
         "Id": "1308",
@@ -666,8 +666,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "Cloud Isolante Térmico - Inflatable",
-      "Nome": "PEAK SLUMBER Cloud Isolante Térmico - Inflatable",
+      "NomeSemMarca": "Isolante Térmico Cloud - Inflável",
+      "Nome": "Isolante Térmico PEAK SLUMBER Cloud - Inflável",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/peak-slumber-cloud-sleeping-pad-inflatable-in-blue~p~16pwt_01~80.jpg",
@@ -685,12 +685,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Blue",
+          "NomeCor": "Azul",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/16pwt-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/peak-slumber-cloud-sleeping-pad-inflatable-in-blue~p~16pwt_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Rest comfortably in the Great Outdoors with Peak Slumber&#39;s Cloud Isolante Térmico, made from durable ripstop fabric with a supportive, easy-to-inflate design.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Descanse confortavelmente na natureza com o Isolante Térmico Cloud da Peak Slumber, feito de tecido ripstop durável com um design de suporte fácil de inflar.",
       "PrecoVarejoSugerido": 50,
       "Marca": {
         "Id": "39056",
@@ -714,8 +714,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "-4°F Oscar Saco de Dormir - Sarcófago, Long",
-      "Nome": "Nordisk -4°F Oscar Saco de Dormir - Sarcófago, Long",
+      "NomeSemMarca": "Saco de Dormir Oscar -4°F - Sarcófago, Longo",
+      "Nome": "Saco de Dormir Nordisk Oscar -4°F - Sarcófago, Longo",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/nordisk-4-f-oscar-sleeping-bag-mummy-long-in-mustard~p~10hxy_01~80.jpg",
@@ -737,12 +737,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Mustard",
+          "NomeCor": "Mostarda",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/10hxy-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/nordisk-4-f-oscar-sleeping-bag-mummy-long-in-mustard~p~10hxy_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong>Excess</strong>. Stay warm while camping in extreme conditions with Nordisk&#39;s -4&#176;F Oscar Saco de Dormir, featuring a body-hugging <a class=\"glossaryTermLink\" href=\"/Sarcófago~g~1946\" title=\"Sarcófago: - Sarcófago refers to the shape of sleeping bags designed to provide maximum warmth. Sarcófago-shaped bags taper from the head to the foot, reducing their volume and surface area, improving overall heat-retention properties. Sarcófago bags are typically more lightweight and take up less space than rectangular bags, which makes them ideal for backpacking.\">Sarcófago</a> shape with Northguard S-Core insulation and an innovative tubic construction that traps air in for even heat distribution while pushing moisture out for maximum warmth and comfort.",
+      "DescricaoHtmlSimples": "<strong>Excesso de Estoque</strong>. Mantenha-se aquecido acampando em condições extremas com o Saco de Dormir Oscar -4&#176;F da Nordisk, apresentando um formato <a class=\"glossaryTermLink\" href=\"/Sarcófago~g~1946\" title=\"Sarcófago: - Sarcófago refers to the shape of sleeping bags designed to provide maximum warmth. Sarcófago-shaped bags taper from the head to the foot, reducing their volume and surface area, improving overall heat-retention properties. Sarcófago bags are typically more lightweight and take up less space than rectangular bags, which makes them ideal for backpacking.\">Sarcófago</a> que se ajusta ao corpo, com isolamento Northguard S-Core e uma inovadora construção tubular que retém o ar para uma distribuição uniforme do calor, enquanto expele a umidade para máximo calor e conforto.",
       "PrecoVarejoSugerido": 410,
       "Marca": {
         "Id": "33133",
@@ -766,8 +766,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "Insulated Static V Isolante Térmico - Inflatable",
-      "Nome": "Klymit Insulated Static V Isolante Térmico - Inflatable",
+      "NomeSemMarca": "Isolante Térmico Static V Isolado - Inflável",
+      "Nome": "Isolante Térmico Klymit Static V Isolado - Inflável",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/klymit-insulated-static-v-sleeping-pad-inflatable-in-kings-camo~p~832ud_01~80.jpg",
@@ -780,12 +780,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Kings Camo",
+          "NomeCor": "Camuflagem Kings",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/832ud-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/klymit-insulated-static-v-sleeping-pad-inflatable-in-kings-camo~p~832ud_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. With added R-value for top-drawer performance, Klymit‘s Insulated Static V Isolante Térmico harnesses four-season performance for unwinding under the stars on any night of the year. The body-mapped V-chambers limit air movement, and the ergonomic body mapping with dynamic side rails cradles your body all night long.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Com valor R (R-value) adicional para um desempenho de primeira linha, o Isolante Térmico Static V Isolado da Klymit oferece desempenho para as quatro estações para você relaxar sob as estrelas em qualquer noite do ano. As câmaras em V mapeadas pelo corpo limitam o movimento do ar, e o mapeamento corporal ergonômico com trilhos laterais dinâmicos abraçam seu corpo a noite toda.",
       "PrecoVarejoSugerido": 110,
       "Marca": {
         "Id": "4173",
@@ -809,8 +809,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "Static V Luxe Isolante Térmico - Inflatable",
-      "Nome": "Klymit Static V Luxe Isolante Térmico - Inflatable",
+      "NomeSemMarca": "Isolante Térmico Static V Luxe - Inflável",
+      "Nome": "Isolante Térmico Klymit Static V Luxe - Inflável",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/klymit-static-v-luxe-sleeping-pad-inflatable-in-rootbeer~p~16pwr_01~80.jpg",
@@ -833,7 +833,7 @@
           "FonteImagemPreviaCor": "https://i.stpost.com/klymit-static-v-luxe-sleeping-pad-inflatable-in-rootbeer~p~16pwr_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Enjoy a comfortable night under the stars with Klymit&#39;s Static V Luxe Isolante Térmico, made from durable materials with ergonomic raised V-chambers that support pressure points and maximize warmth -- all in a wider, thicker design.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Desfrute de uma noite confortável sob as estrelas com o Isolante Térmico Static V Luxe da Klymit, feito de materiais duráveis com câmaras em V ergonômicas e elevadas que suportam pontos de pressão e maximizam o calor -- tudo em um design mais largo e mais espesso.",
       "PrecoVarejoSugerido": 100,
       "Marca": {
         "Id": "4173",
@@ -857,8 +857,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "Core Isolante Térmico - 72x20x3.5”",
-      "Nome": "ALPS Mountaineering Core Isolante Térmico - 72x20x3.5”",
+      "NomeSemMarca": "Isolante Térmico Core - 72x20x3.5”",
+      "Nome": "Isolante Térmico ALPS Mountaineering Core - 72x20x3.5”",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/alps-mountaineering-core-sleeping-pad-72x20x35-in-tangerine~p~858yv_01~80.jpg",
@@ -871,18 +871,18 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Tangerine",
+          "NomeCor": "Tangerina",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/858yv-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/alps-mountaineering-core-sleeping-pad-72x20x35-in-tangerine~p~858yv_01~160.jpg"
         },
         {
           "CodigoCor": "02",
-          "NomeCor": "Gray",
+          "NomeCor": "Cinza",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/858yv-02.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/alps-mountaineering-core-sleeping-pad-72x20x35-in-gray~p~858yv_02~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong>Excess</strong>. With its ultralight weight, horizontal tube design and long-lasting ripstop <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> construction, the ALPS Mountaineering Core Isolante Térmico is a trusty companion for overnight ventures into the backcountry.",
+      "DescricaoHtmlSimples": "<strong>Excesso de Estoque</strong>. Com seu peso ultraleve, design de tubo horizontal e construção de <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> ripstop de longa duração, o Isolante Térmico Core da ALPS Mountaineering é um companheiro confiável para aventuras noturnas em áreas remotas.",
       "PrecoVarejoSugerido": 80,
       "Marca": {
         "Id": "1156",
@@ -906,8 +906,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "Static V Luxe Isolante Térmico - Inflatable",
-      "Nome": "Klymit Static V Luxe Isolante Térmico - Inflatable",
+      "NomeSemMarca": "Isolante Térmico Static V Luxe - Inflável",
+      "Nome": "Isolante Térmico Klymit Static V Luxe - Inflável",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/klymit-static-v-luxe-sleeping-pad-inflatable-in-stone-grey~p~16pwx_01~80.jpg",
@@ -925,12 +925,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Stone Cinza",
+          "NomeCor": "Cinza Pedra",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/16pwx-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/klymit-static-v-luxe-sleeping-pad-inflatable-in-stone-grey~p~16pwx_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Enjoy a comfortable night under the stars with Klymit&#39;s Static V Luxe Isolante Térmico, made from durable materials with ergonomic raised V-chambers that support pressure points and maximize warmth -- all in a wider, thicker design.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Desfrute de uma noite confortável sob as estrelas com o Isolante Térmico Static V Luxe da Klymit, feito de materiais duráveis com câmaras em V ergonômicas e elevadas que suportam pontos de pressão e maximizam o calor -- tudo em um design mais largo e mais espesso.",
       "PrecoVarejoSugerido": 100,
       "Marca": {
         "Id": "4173",
@@ -954,8 +954,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "20°F KSB Down Saco de Dormir - Sarcófago, 650 Fill Power",
-      "Nome": "Klymit 20°F KSB Down Saco de Dormir - Sarcófago, 650 Fill Power",
+      "NomeSemMarca": "Saco de Dormir de Plumas KSB 20°F - Sarcófago, Capacidade de Preenchimento 650",
+      "Nome": "Saco de Dormir de Plumas Klymit KSB 20°F - Sarcófago, Capacidade de Preenchimento 650",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/klymit-20-f-ksb-down-sleeping-bag-mummy-650-fill-power-in-black~p~843yw_01~80.jpg",
@@ -973,12 +973,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Black",
+          "NomeCor": "Preto",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/843yw-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/klymit-20-f-ksb-down-sleeping-bag-mummy-650-fill-power-in-black~p~843yw_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. When the temps dip below freezing, Klymit&#39;s 20&#176;F KSB down Saco de Dormir surrounds your entire body in supersoft, fluffy down to trap body heat while you snooze.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Quando as temperaturas caem abaixo de zero, o Saco de Dormir de Plumas KSB 20&#176;F da Klymit envolve todo o seu corpo em plumas supermacias e felpudas para reter o calor do corpo enquanto você cochila.",
       "PrecoVarejoSugerido": 250,
       "Marca": {
         "Id": "4173",
@@ -1002,8 +1002,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "28°F Gorm Saco de Dormir - Sarcófago, Long",
-      "Nome": "Nordisk 28°F Gorm Saco de Dormir - Sarcófago, Long",
+      "NomeSemMarca": "Saco de Dormir Gorm 28°F - Sarcófago, Longo",
+      "Nome": "Saco de Dormir Nordisk Gorm 28°F - Sarcófago, Longo",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/nordisk-28-f-gorm-sleeping-bag-mummy-long-in-limoges-blue~p~10hpy_01~80.jpg",
@@ -1025,12 +1025,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Limoges Azul",
+          "NomeCor": "Azul Limoges",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/10hpy-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/nordisk-28-f-gorm-sleeping-bag-mummy-long-in-limoges-blue~p~10hpy_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong>Excess</strong>. Recharge on cold nights with Nordisk&#39;s 28&#176;F Gorm Saco de Dormir, made from smooth <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> with warm, durable synthetic insulation and a wider shape for maximum comfort.",
+      "DescricaoHtmlSimples": "<strong>Excesso de Estoque</strong>. Recarregue as energias nas noites frias com o Saco de Dormir Gorm 28&#176;F da Nordisk, feito de <a class=\"glossaryTermLink\" href=\"/nylon~g~1957\" title=\"Nylon: - First developed by DuPont®, nylon is a synthetic fiber with exceptional strength, abrasion resistance, stain repellency and flexibility. Used in applications from outdoor clothing and apparel to household items, nylon is frequently blended with other synthetic and natural fibers to increase durability.\">nylon</a> liso com isolamento sintético quente e durável, e um formato mais largo para máximo conforto.",
       "PrecoVarejoSugerido": 240,
       "Marca": {
         "Id": "33133",
@@ -1054,8 +1054,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "20°F Guide Saco de Dormir - Sarcófago (For Mulheres)",
-      "Nome": "The North Face 20°F Guide Saco de Dormir - Sarcófago (For Mulheres)",
+      "NomeSemMarca": "Saco de Dormir Guide 20°F - Sarcófago (Para Mulheres)",
+      "Nome": "Saco de Dormir The North Face Guide 20°F - Sarcófago (Para Mulheres)",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/the-north-face-20-f-guide-sleeping-bag-mummy-for-women-in-high-rise-grey-hyper-blue~p~985kf_01~80.jpg",
@@ -1077,12 +1077,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "High Rise Cinza/Hyper Azul",
+          "NomeCor": "Cinza High Rise/Azul Hyper",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/985kf-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/the-north-face-20-f-guide-sleeping-bag-mummy-for-women-in-high-rise-grey-hyper-blue~p~985kf_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Get durable-yet-lightweight warmth for comfortable slumbers under the stars in The North Face&#39;s Guide Saco de Dormir, designed with toasty HeatSeeker&#174; insulation in a water-resistant ripstop shell.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Obtenha calor durável e leve para sonos confortáveis sob as estrelas no Saco de Dormir Guide da The North Face, projetado com o aconchegante isolamento HeatSeeker&#174; em um revestimento ripstop resistente à água.",
       "PrecoVarejoSugerido": 209,
       "Marca": {
         "Id": "1440",
@@ -1106,8 +1106,8 @@
         "ContagemAvaliacoes": 0,
         "MediaAvaliacao": 0
       },
-      "NomeSemMarca": "20°F Dolomite Double Saco de Dormir - Rectangular",
-      "Nome": "The North Face 20°F Dolomite Double Saco de Dormir - Rectangular",
+      "NomeSemMarca": "Saco de Dormir Duplo Dolomite 20°F - Retangular",
+      "Nome": "Saco de Dormir Duplo The North Face Dolomite 20°F - Retangular",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/the-north-face-20-f-dolomite-double-sleeping-bag-rectangular-in-cosmic-blue-zinc-grey~p~985tp_02~80.jpg",
@@ -1129,12 +1129,12 @@
       "Cores": [
         {
           "CodigoCor": "02",
-          "NomeCor": "Cosmic Azul/Zinc Cinza",
+          "NomeCor": "Azul Cósmico/Cinza Zinco",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/985tp-02.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/the-north-face-20-f-dolomite-double-sleeping-bag-rectangular-in-cosmic-blue-zinc-grey~p~985tp_02~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Snuggle up with your special someone under the stars with The North Face&#39;s 20&#176;F Dolomite double Saco de Dormir, featuring durable <a class=\"glossaryTermLink\" href=\"/polyester~g~2001\" title=\"Polyester: - Polyester is a man-made fiber that is second only to cotton in worldwide use. Polyester is strong; resists wrinkling, stretching and shrinking; and has high resistance to abrasion. It dries quickly, is one of the most popular wicking fabrics and is woven with many other fabrics to add strength and durability.\">polyester</a> ripstop construction, toasty HeatSeeker&#174; Eco synthetic insulation and a roomy interior.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Ponta de Estoque~g~3281\" title=\"Ponta de Estoque: - Ponta de Estoque indicates an item may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Ponta de Estoque</a></strong>. Aconchegue-se com sua pessoa especial sob as estrelas com o Saco de Dormir duplo Dolomite 20&#176;F da The North Face, com construção em ripstop de <a class=\"glossaryTermLink\" href=\"/polyester~g~2001\" title=\"Polyester: - Polyester is a man-made fiber that is second only to cotton in worldwide use. Polyester is strong; resists wrinkling, stretching and shrinking; and has high resistance to abrasion. It dries quickly, is one of the most popular wicking fabrics and is woven with many other fabrics to add strength and durability.\">poliéster</a> durável, isolamento sintético aconchegante HeatSeeker&#174; Eco e um interior espaçoso.",
       "PrecoVarejoSugerido": 159,
       "Marca": {
         "Id": "1440",
@@ -1158,8 +1158,8 @@
         "ContagemAvaliacoes": 1,
         "MediaAvaliacao": 3
       },
-      "NomeSemMarca": "Trail King Isolante Térmico - Self-Inflating, Regular",
-      "Nome": "Therm-a-Rest Trail King Isolante Térmico - Self-Inflating, Regular",
+      "NomeSemMarca": "Isolante Térmico Trail King - Auto-inflável, Regular",
+      "Nome": "Isolante Térmico Therm-a-Rest Trail King - Auto-inflável, Regular",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/therm-a-rest-trail-king-sleeping-pad-self-inflating-regular-in-yellow-green~p~268gc_01~80.jpg",
@@ -1172,12 +1172,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Yellow/Verde",
+          "NomeCor": "Amarelo/Verde",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/268gc-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/therm-a-rest-trail-king-sleeping-pad-self-inflating-regular-in-yellow-green~p~268gc_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/2nds~g~2314\" title=\"2nds: - These are items with barely perceptible blemishes or slight irregularities that do not affect fit, performance or longevity such as an error in the stitching or a slight fading of the product’s color. Labels on 2nds are usually clipped or marked by the manufacturer, and 2nds are often offered at lower prices.\">2nds</a></strong>. Designed to inflate in a matter of seconds, Therm-a-Rest&#39;s Trail King SV Isolante Térmico offers unprecedented ease-of-use. Backpackers will appreciate 2.5&quot; of ultra-supportive <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of “dead space” or air throughout an insulating material inside a Saco de Dormir or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the “puffiness” of down or synthetic insulation.\">loft</a> and the auto-reversing SpeedValve that lets you deflate the mattress in a flash as well.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/2nds~g~2314\" title=\"2nds: - These are items with barely perceptible blemishes or slight irregularities that do not affect fit, performance or longevity such as an error in the stitching or a slight fading of the product’s color. Labels on 2nds are usually clipped or marked by the manufacturer, and 2nds are often offered at lower prices.\">Segunda Linha (2nds)</a></strong>. Projetado para inflar em questão de segundos, o Isolante Térmico Trail King SV da Therm-a-Rest oferece uma facilidade de uso sem precedentes. Os mochileiros vão apreciar os 2,5 polegadas de <a class=\"glossaryTermLink\" href=\"/loft~g~1920\" title=\"Loft: - Loft refers to the amount of “dead space” or air throughout an insulating material inside a Saco de Dormir or garment. Since small air pockets evenly dispersed within insulation increase the insulating ability, loft is an important factor that determines how warm an article will be. Loft essentially describes the “puffiness” of down or synthetic insulation.\">espessura (loft)</a> ultra-suportiva e a válvula SpeedValve com auto-reversão que também permite desinflar o colchão num piscar de olhos.",
       "PrecoVarejoSugerido": 129.95,
       "Marca": {
         "Id": "3177",
@@ -1201,8 +1201,8 @@
         "ContagemAvaliacoes": 1,
         "MediaAvaliacao": 1
       },
-      "NomeSemMarca": "Regular 375 Foam Isolante Térmico",
-      "Nome": "ALPS Mountaineering Regular 375 Foam Isolante Térmico",
+      "NomeSemMarca": "Isolante Térmico de Espuma 375 Regular",
+      "Nome": "Isolante Térmico de Espuma ALPS Mountaineering 375 Regular",
       "ItemMarcaFamosa": false,
       "Imagens": {
         "PrincipalPequena": "https://i.stpost.com/alps-mountaineering-regular-375-foam-sleeping-pad-in-green~p~665jr_01~80.jpg",
@@ -1215,12 +1215,12 @@
       "Cores": [
         {
           "CodigoCor": "01",
-          "NomeCor": "Green",
+          "NomeCor": "Verde",
           "FonteImagemAmostraCor": "https://s.stpost.com/eccstorefront/colorchip/665jr-01.jpg",
           "FonteImagemPreviaCor": "https://i.stpost.com/alps-mountaineering-regular-375-foam-sleeping-pad-in-green~p~665jr_01~160.jpg"
         }
       ],
-      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. ALPS Mountaineering Regular 375 Isolante Térmico is a dense, textured foam mat that protects and insulates against cold, uneven surfaces.",
+      "DescricaoHtmlSimples": "<strong><a class=\"glossaryTermLink\" href=\"/Pontas de Estoque~g~2312\" title=\"Pontas de Estoque: - Pontas de Estoque are items that may be last year's model or color. While Ponta de Estoque items are often offered at discounted prices, the products themselves are always high quality. Ponta de Estoque items can include anything from shoes, underwear and apparel, to rugs, tendas and outdoor equipment. Pontas de Estoque are often a high percentage off the retail price.\">Pontas de Estoque</a></strong>. O Isolante Térmico Regular 375 da ALPS Mountaineering é um tapete de espuma denso e texturizado que protege e isola contra o frio e superfícies irregulares.",
       "PrecoVarejoSugerido": 16.99,
       "Marca": {
         "Id": "1156",
