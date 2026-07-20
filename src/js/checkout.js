@@ -1,18 +1,18 @@
-import { loadHeaderFooter } from "./utils.mjs";
-import { CheckoutProcess } from "./CheckoutProcess.mjs";
+import { carregarHeaderFooter } from "./uteis.mjs";
+import { ProcessoCheckout } from "./ProcessoCheckout.mjs";
 
-loadHeaderFooter();
+carregarHeaderFooter();
 
-const order = new CheckoutProcess("so-cart", ".checkout-summary");
+const order = new ProcessoCheckout("so-carrinho", ".checkout-resumo");
 order.init();
 
-// Add event listeners to fire calculateOrderTotal when the user changes the zip code
+// Adiciona os ouvintes de evento para disparar calcularTotalPedido quando o usuário alterar o CEP
 document
-  .querySelector("#zip")
-  .addEventListener("blur", order.calculateOrderTotal.bind(order));
+  .querySelector("#cep")
+  .addEventListener("blur", order.calcularTotalPedido.bind(order));
 
-// listening for click on the button
-document.querySelector("#checkoutSubmit").addEventListener("click", (e) => {
+// ouvindo o clique no botão
+document.querySelector("#checkoutEnviar").addEventListener("click", (e) => {
   e.preventDefault();
 
   order.checkout();
