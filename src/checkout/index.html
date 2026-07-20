@@ -1,71 +1,71 @@
 <!doctype html>
 
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sleep Outside | Checkout</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <title>Acampar | Checkout</title>
+    <link rel="stylesheet" href="css/estilo.css" />
   </head>
 
   <body>
-    <header class="divider" id="main-header"></header>
+    <header class="divisor" id="header-principal"></header>
 
-    <main class="divider checkout">
-      <h2>Review & Place your Order</h2>
-      <section class="checkout-form">
+    <main class="divisor checkout">
+      <h2>Revise e Faça seu Pedido</h2>
+      <section class="checkout-formulario">
         <form name="checkout">
           <fieldset>
             <legend></legend>
-            <div class="checkout__name">
-              <label for="fname">First Name</label>
-              <input type="text" name="fname" id="fname" required />
-              <label for="lname">Last Name</label>
-              <input type="text" name="lname" id="lname" required />
+            <div class="checkout__nome">
+              <label for="pnome">Primeiro Nome</label>
+              <input type="text" name="pnome" id="pnome" required />
+              <label for="snome">Sobrenome</label>
+              <input type="text" name="snome" id="snome" required />
             </div>
-            <div class="checkout__address">
-              <label for="address">Address</label>
-              <input type="text" name="address" id="address" required />
-              <label for="city">City</label>
-              <input type="text" name="city" id="city" required />
-              <label for="state">State</label>
-              <input type="text" name="state" id="state" required />
-              <label for="zip">Zip</label>
-              <input type="text" name="zip" id="zip" required />
+            <div class="checkout__endereco">
+              <label for="endereco">Endereço</label>
+              <input type="text" name="endereco" id="endereco" required />
+              <label for="cidade">Cidade</label>
+              <input type="text" name="cidade" id="cidade" required />
+              <label for="estado">Estado</label>
+              <input type="text" name="estado" id="estado" required />
+              <label for="cep">CEP</label>
+              <input type="text" name="cep" id="cep" required />
             </div>
           </fieldset>
           <fieldset>
-            <legend>Payment</legend>
-            <div class="checkout__payment">
-              <label for="cardNumber">Card Number</label>
-              <input type="text" name="cardNumber" id="cardNumber" required />
-              <label for="exp">Expiration</label>
-              <input type="text" name="exp" id="exp" required />
+            <legend>Pagamento</legend>
+            <div class="checkout__pagamento">
+              <label for="numeroCartao">Número do Cartão</label>
+              <input type="text" name="numeroCartao" id="numeroCartao" required />
+              <label for="validade">Validade</label>
+              <input type="text" name="validade" id="validade" required />
               <label for="cvv">CVV</label>
               <input type="text" name="cvv" id="cvv" required />
             </div>
           </fieldset>
-          <fieldset class="checkout-summary">
-            <legend>Order Summary</legend>
+          <fieldset class="checkout-resumo">
+            <legend>Resumo do Pedido</legend>
 
-            <div class="order__summary">
-              <div>Items</div>
-              <div id="numberItems"></div>
+            <div class="resumo__pedido">
+              <div>Itens</div>
+              <div id="numeroItens"></div>
               <div>Subtotal</div>
-              <div id="cartTotal"></div>
-              <div>Shipping</div>
-              <div>Tax</div>
-              <div id="tax"></div>
-              <div id="shipping"></div>
+              <div id="totalCarrinho"></div>
+              <div>Frete</div>
+              <div>Imposto</div>
+              <div id="imposto"></div>
+              <div id="frete"></div>
               <div>Total</div>
               <div id="total"></div>
             </div>
           </fieldset>
-          <button type="submit" id="checkoutSubmit">Checkout</button>
+          <button type="submit" id="checkoutEnviar">Checkout</button>
         </form>
       </section>
     </main>
 
-    <footer id="main-footer"></footer>
+    <footer id="footer-principal"></footer>
   </body>
 </html>
