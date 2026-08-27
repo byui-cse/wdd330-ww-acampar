@@ -41,7 +41,7 @@ function ModeloDetalhesProduto(produto) {
 
   document.getElementById('precoProduto').textContent = `R$${produto.PrecoFinal}`;
   document.getElementById('corProduto').textContent = produto.Cores[0].NomeCor;
-  document.getElementById('descProduto').innerHTML = produto.DescricaoHtmlSimples;
+  document.getElementById('descricaoProduto').innerHTML = produto.DescricaoHtmlSimples;
 
   document.getElementById('adicionarAoCarrinho').dataset.id = produto.Id;
 }
