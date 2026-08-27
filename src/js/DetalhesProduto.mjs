@@ -39,11 +39,11 @@ function modeloDetalhesProduto(produto) {
   const imagemProduto = document.querySelector("#p-imagem");
   imagemProduto.src = produto.Imagens.PrincipalExtraGrande;
   imagemProduto.alt = produto.NomeSemMarca;
-  const precoFormatado = new Intl.NumberFormat('pt-BR',
+  const precoEuro = new Intl.NumberFormat('de-DE',
     {
-      style: 'currency', currency: 'BRL',
-    }).format(Number(produto.PrecoFinal));
-  document.querySelector("#p-preco").textContent = `${precoFormatado}`;
+      style: 'currency', currency: 'EUR',
+    }).format(Number(produto.PrecoFinal) * 0.85);
+  document.querySelector("#p-preco").textContent = `${precoEuro}`;
   document.querySelector("#p-cor").textContent = produto.Cores[0].NomeCor;
   document.querySelector("#p-descricao").innerHTML = produto.DescricaoHtmlSimples;
 
