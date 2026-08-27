@@ -11,7 +11,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, "src/index.html"),
         carrinho: resolve(__dirname, "src/carrinho/index.html"),
-        checkout: resolve(__dirname, "src/checkout/index.html"),
+        finalizar_compra: resolve(__dirname, "src/finalizar_compra/index.html"),
         produto: resolve(__dirname, "src/pagina_produtos/index.html"),
       },
     },
