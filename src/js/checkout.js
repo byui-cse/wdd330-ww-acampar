@@ -1,9 +1,9 @@
 import { carregarHeaderFooter } from "./uteis.mjs";
-import { ProcessoCheckout } from "./ProcessoCheckout.mjs";
+import { Processofinalizar_compra } from "./Processofinalizar_compra.mjs";
 
 carregarHeaderFooter();
 
-const order = new ProcessoCheckout("so-carrinho", ".checkout-resumo");
+const order = new Processofinalizar_compra("so-carrinho", ".finalizar_compra-resumo");
 order.init();
 
 // Adiciona os ouvintes de evento para disparar calcularTotalPedido quando o usuário alterar o CEP
@@ -12,8 +12,8 @@ document
   .addEventListener("blur", order.calcularTotalPedido.bind(order));
 
 // ouvindo o clique no botão
-document.querySelector("#checkoutEnviar").addEventListener("click", (e) => {
+document.querySelector("#finalizar_compraEnviar").addEventListener("click", (e) => {
   e.preventDefault();
 
-  order.checkout();
+  order.finalizar_compra();
 });

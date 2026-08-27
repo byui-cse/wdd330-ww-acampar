@@ -80,8 +80,8 @@ export default class ProcessoFinalizacaoCompra {
     totalPedidoEl.innerText = `$${this.totalPedido.toFixed(2)}`;
   }
 
-  async checkout() {
-    const elementoFormulario = document.forms["checkout"];
+  async finalizar_compra() {
+    const elementoFormulario = document.forms["finalizar_compra"];
     const pedido = dadosFormularioParaJSON(elementoFormulario);
 
     pedido.dataPedido = new Date().toISOString();
@@ -92,7 +92,7 @@ export default class ProcessoFinalizacaoCompra {
     //console.log(pedido);
 
     try {
-      const resposta = await servicos.checkout(pedido);
+      const resposta = await servicos.finalizar_compra(pedido);
       console.log(resposta);
     } catch (erro) {
       console.log(erro);

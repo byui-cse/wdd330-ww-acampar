@@ -6,8 +6,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Acampar | Finalizar Compra</title>
-  <link rel="stylesheet" href="css/estilo.css">
-  <script src="../js/checkout.js" type="module"></script>
+  <link rel="stylesheet" href="css/estilos.css">
+  <script src="../js/finalizar_compra.js" type="module"></script>
 </head>
 
 <body>
@@ -15,19 +15,19 @@
 
   <main class="divisor 0">
     <h2>Revise e Faça seu Pedido</h2>
-    <section class="checkout-formulario">
-      <form name="checkout">
+    <section class="finalizar_compra-formulario">
+      <form name="finalizar_compra">
         <input type="hidden" name="dataPedido" id="dataPedido">
 
         <fieldset>
           <legend></legend>
-          <div class="checkout__nome">
+          <div class="finalizar_compra__nome">
             <label for="pnome">Primeiro Nome</label>
             <input type="text" name="pnome" id="pnome" required>
             <label for="snome">Sobrenome</label>
             <input type="text" name="snome" id="snome" required>
           </div>
-          <div class="checkout__endereco">
+          <div class="finalizar_compra__endereco">
             <label for="endereco">Endereço</label>
             <input type="text" name="endereco" id="endereco" required>
             <label for="cidade">Cidade</label>
@@ -41,7 +41,7 @@
 
         <fieldset>
           <legend>Pagamento</legend>
-          <div class="checkout__pagamento">
+          <div class="finalizar_compra__pagamento">
             <label for="numeroCartao">Número do Cartão</label>
             <input type="text" name="numeroCartao" id="numeroCartao" required>
             <label for="validade">Validade</label>
@@ -51,7 +51,7 @@
           </div>
         </fieldset>
 
-        <fieldset class="checkout-resumo">
+        <fieldset class="finalizar_compra-resumo">
           <legend>Resumo do Pedido</legend>
 
           <div class="resumo__pedido">
@@ -67,7 +67,7 @@
             <div id="totalPedido"></div>
           </div>
         </fieldset>
-        <button type="submit" id="checkoutEnviar">Checkout</button>
+        <button type="submit" id="finalizar_compraEnviar">finalizar_compra</button>
       </form>
     </section>
   </main>
