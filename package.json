@@ -1,5 +1,5 @@
 {
-  "Nome": "outside",
+  "name": "acampar",
   "version": "2.0.0",
   "description": "Boilerplate for WDD 330 Acampar project",
   "main": "main.js",
