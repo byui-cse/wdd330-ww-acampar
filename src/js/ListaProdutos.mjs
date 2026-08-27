@@ -3,7 +3,7 @@ import { renderizarListaComModelo } from "./uteis.mjs";
 function modeloCartaoProduto(produto) {
   return `
     <li class="cartao-produto">
-      <a href="pagina_produtos/?produto=${produto.Id}">
+      <a href="paginas_produto/?produto=${produto.Id}">
         <img src="${produto.Imagem}" alt="${produto.Nome}">
         <h2>${produto.Marca.Nome}</h2>
         <h3>${produto.Nome}</h3>
