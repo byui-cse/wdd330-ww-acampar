@@ -1,19 +1,19 @@
 import { carregarHeaderFooter } from "./uteis.mjs";
-import { Processofinalizar_compra } from "./Processofinalizar_compra.mjs";
+import ProcessoFinalizacaoCompra from "./ProcessoFinalizacaoCompra.mjs";
 
 carregarHeaderFooter();
 
-const order = new Processofinalizar_compra("so-carrinho", ".finalizar_compra-resumo");
-order.init();
+const pedido = new ProcessoFinalizacaoCompra("so-carrinho", ".finalizar_compra-resumo");
+pedido.inicializar();
 
 // Adiciona os ouvintes de evento para disparar calcularTotalPedido quando o usuário alterar o CEP
 document
   .querySelector("#cep")
-  .addEventListener("blur", order.calcularTotalPedido.bind(order));
+  .addEventListener("blur", pedido.calcularTotalPedido.bind(pedido));
 
 // ouvindo o clique no botão
 document.querySelector("#finalizar_compraEnviar").addEventListener("click", (e) => {
   e.preventDefault();
 
-  order.finalizar_compra();
+  pedido.finalizar_compra();
 });

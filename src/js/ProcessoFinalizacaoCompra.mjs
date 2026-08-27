@@ -54,7 +54,7 @@ export default class ProcessoFinalizacaoCompra {
     // calcula o total de todos os itens no carrinho
     const valores = this.lista.map((item) => item.PrecoFinal);
     this.totalItens = valores.reduce((soma, item) => soma + item, 0);
-    elementoResumo.innerText = `$${this.totalItens}`;
+    elementoResumo.innerText = `R$${this.totalItens}`;
   }
 
   calcularTotalPedido() {
@@ -75,9 +75,9 @@ export default class ProcessoFinalizacaoCompra {
     const freteEl = document.querySelector(`${this.seletorSaida} #frete`);
     const totalPedidoEl = document.querySelector(`${this.seletorSaida} #totalPedido`);
 
-    impostoEl.innerText = `$${this.imposto.toFixed(2)}`;
-    freteEl.innerText = `$${this.frete.toFixed(2)}`;
-    totalPedidoEl.innerText = `$${this.totalPedido.toFixed(2)}`;
+    impostoEl.innerText = `R$${this.imposto.toFixed(2)}`;
+    freteEl.innerText = `R$${this.frete.toFixed(2)}`;
+    totalPedidoEl.innerText = `R$${this.totalPedido.toFixed(2)}`;
   }
 
   async finalizar_compra() {
@@ -92,7 +92,7 @@ export default class ProcessoFinalizacaoCompra {
     //console.log(pedido);
 
     try {
-      const resposta = await servicos.finalizar_compra(pedido);
+      const resposta = await servicos.checkout(pedido);
       console.log(resposta);
     } catch (erro) {
       console.log(erro);
