@@ -10,7 +10,7 @@ export default class DetalhesProduto {
 
   async inicializar() {
     // usa a fonteDados para obter os detalhes do produto atual. encontrarProdutoPorId retornará uma promise! use await ou .then() para processá-la
-    this.produto = await this.fonteDados.encontrarProdutoPorId(this.idProduto);
+    this.produto = await this.fonteDados.buscarProdutoPorId(this.idProduto);
     // os detalhes do produto são necessários antes de renderizar o HTML
     this.renderizarDetalhesProduto();
     // uma vez que o HTML é renderizado, adicione um ouvinte ao botão Adicionar ao Carrinho
@@ -21,9 +21,9 @@ export default class DetalhesProduto {
   }
 
   adicionarProdutoAoCarrinho() {
-    const itensCarrinho = obterArmazenamentoLocal("so-cart") || [];
+    const itensCarrinho = obterArmazenamentoLocal("so-carrinho") || [];
     itensCarrinho.push(this.produto);
-    definirArmazenamentoLocal("so-cart", itensCarrinho);
+    definirArmazenamentoLocal("so-carrinho", itensCarrinho);
   }
 
   renderizarDetalhesProduto() {
@@ -39,7 +39,7 @@ function ModeloDetalhesProduto(produto) {
   imagemProduto.src = produto.Imagem;
   imagemProduto.alt = produto.NomeSemMarca;
 
-  document.getElementById('precoProduto').textContent = produto.PrecoFinal;
+  document.getElementById('precoProduto').textContent = `R$${produto.PrecoFinal}`;
   document.getElementById('corProduto').textContent = produto.Cores[0].NomeCor;
   document.getElementById('descProduto').innerHTML = produto.DescricaoHtmlSimples;
 
@@ -55,7 +55,7 @@ function ModeloDetalhesProduto(produto) {
 //       src="${produto.Imagem}"
 //       alt="${produto.NomeSemMarca}"
 //     />
-//     <p class="cartao-produto__preco">$${produto.PrecoFinal}</p>
+//     <p class="cartao-produto__preco">R$${produto.PrecoFinal}</p>
 //     <p class="produto__cor">${produto.Cores[0].NomeCor}</p>
 //     <p class="produto__descricao">
 //     ${produto.DescricaoHtmlSimples}
