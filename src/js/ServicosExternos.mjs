@@ -14,13 +14,13 @@ export default class ServicosExternos {
     // this.caminho = `../publico/json/${this.categoria}.json`;
   }
   async obterDados(categoria) {
-    const response = await fetch(`${baseURL}products/search/${categoria}`);
+    const response = await fetch(`${baseURL}produtos/busca/${categoria}`);
     const dados = await converterParaJson(response);
-    
+
     return dados.Result;
   }
   async buscarProdutoPorId(id) {
-    const response = await fetch(`${baseURL}product/${id}`);
+    const response = await fetch(`${baseURL}produto/${id}`);
     const dados = await converterParaJson(response);
     // console.log(dados.Result);
     return dados.Result;
@@ -34,6 +34,6 @@ export default class ServicosExternos {
       },
       body: JSON.stringify(payload),
     };
-    return await fetch(`${baseURL}checkout/`, options).then(converterParaJson);
+    return await fetch(`${baseURL}finalizar-compra/`, options).then(converterParaJson);
   }
 }
